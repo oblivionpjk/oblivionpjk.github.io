@@ -1,6 +1,6 @@
 ---
-title: read "On Discriminative vs. Generative Classi¯ers: A Comparison of Logistic Regression and Naive Bayes"
-tags: 逻辑回归 朴素贝叶斯
+title: 大文件内容对比多线程版本
+tags: java 算法 algorithm 排序 concurrent
 categories: algorithm
 ---
 
