@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: HyG
 email: gaohaoyang126@126.com
@@ -21,3 +22,6 @@ markdown: kramdown
 # highlighter: pygments
 # highlighter: rouge
 # highlighter: false
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 132e951a668a38c5db3c65f1a7f94bf8aaf8129f
