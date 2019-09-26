@@ -1,5 +1,5 @@
 ---
-title: ideas about "On Discriminative vs. Generative Classi¯ers: A Comparison of Logistic Regression and Naive Bayes"
+title: 逻辑回归与朴素贝叶斯的比较
 tags: 算法 algorithm 
 categories: algorithm
 ---
