@@ -13,10 +13,12 @@ It is necessary to have a conceptual model in the process of database design. Us
 3. Provide references for system designers to select system standards.
 4. Support documentation for future system design and collaboration. 
 
-Mendling et al. (2018) designed an experiment and find that conceptual modeling literature would benefit from a more developed understanding of which MVCs need to be included in experimental designs. This also reflects that conceptual models can help people understand the design of experiments.
+Mendling et al. (2018) designed an experiment and find that conceptual modeling literature would benefit from a more developed understanding of which MVCs need to be included in experimental designs. This also reflects that conceptual models can help people understand the design of experiments. Mollaei (2018) established a conceptual model of low-carbon city by applying life cycle theory. This demonstrates the important role that conceptual models play in early assumptions.
+
 Obviously, the conceptual models play an important role in the whole system design process. Without conceptual models, many serious problems will arise in the process of system design, such as changing demands, incomplete functions and logical contradiction.
 
 # References
 1. "C.H. Kung, A. Solvberg, Activity Modeling and Behavior Modeling, In: T. Ollie, H. Sol, A. Verrjin-Stuart, Proceedings of the IFIP WG 8.1 working conference on comparative review of information systems design methodologies: improving the practice. North-Holland, Amsterdam (1986), pp. 145–71". Portal.acm.org. Retrieved 2014-06-20.
 2. Wand, Y., & Weber, R. (2002). Research Commentary: Information Systems and Conceptual Modeling - A Research Agenda. Information Systems Research 13(4) 363–376.
 3. Mendling, Jan , et al. "An Empirical Review of the Connection Between Model Viewer Characteristics and the Comprehension of Conceptual Process Models." Information Systems Frontiers 21.5(2019):1111-1135.
+4. Mollaei, S. , Amidpour, M. , & Sharifi, M. . (2018). Analysis and development of conceptual model of low-carbon city with a sustainable approach. International Journal of Environmental Science and Technology.
