@@ -12,6 +12,7 @@ It is necessary to have a conceptual model in the process of database design. Us
 2. enable stakeholders to communicate system details more intuitively.
 3. Provide references for system designers to select system standards.
 4. Support documentation for future system design and collaboration. 
+
 Mendling et al. (2018) designed an experiment and find that conceptual modeling literature would benefit from a more developed understanding of which MVCs need to be included in experimental designs. This also reflects that conceptual models can help people understand the design of experiments.
 Obviously, the conceptual models play an important role in the whole system design process. Without conceptual models, many serious problems will arise in the process of system design, such as changing demands, incomplete functions and logical contradiction.
 
